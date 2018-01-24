@@ -20,7 +20,7 @@ If you are a someone who love to help people, who is techie, full of ideas and r
 * [Contact Us](#contact-us)
 
 ## Introduction
-GirlScript is a project being developed under the [Mozilla Leadership Training Program, 2017](https://mozilla.teachable.com/p/mozilla-open-leadership-training-series) and mentored by [Kristie Whitaker.](https://github.com/KirstieJane)
+GirlScript is a project being developed under the Mozilla Open Leadership Program, is a registered Non-Profit Organisation in India to support beginners in technology and ensure equality in tech.
 
 The project is designed to help and guide people who want to improve their technical skills. As the name indicates, it helps women to learn and improve their technical skiltells them about different opportunities available for them in the world outside. Through this project, we want to develop an online platform for GirlScript, our offline trainings have already begun in 3 cities of India.
 
@@ -59,10 +59,10 @@ If you’re interested in the project, feel free to open an issue, create a PR, 
 We are following Google Summer of Code Participation Guidelines, please have a look at it [here.](https://summerofcode.withgoogle.com/rules/) 
 
 ## License
-This project is licensed under the MIT License - you can see [LICENSE](https://github.com/girlscript/girlscript-web/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License - you can see [LICENSE](https://github.com/girlscript/girlscript-gsoc/blob/master/LICENSE) file for details.
 
 ## Contact Us
-If you have anything to share, anything at all, feel free to drop by the GirlScript [room](https://gitter.im/Girl-script/Lobby#) on Gitter and say hi. We would love to hear from you. You can also contact [Anubha](https://github.com/anubhamane) by email (anubha [at] girlscript [dot] tech) or on [Twitter](https://twitter.com/girlscript1).
+If you have anything to share, anything at all, feel free to drop by the GirlScript [room](https://gitter.im/Girl-script/Lobby#) on Gitter and say hi. We would love to hear from you. You can also contact [Rohit](https://github.com/rowhitswami) by email (rohit [at] girlscript [dot] tech) or [Anubha](https://github.com/anubhamane) by email (anubha [at] girlscript [dot] tech) or on [Twitter](https://twitter.com/girlscript1).
 
 Thank you for your interest. Have a nice day! :D
 
