@@ -56,6 +56,12 @@ Our current website is based on WordPress [see here](http://girlscript.org) but 
 ## Contribution
 We need help to see our vision turn into reality. Any help, big or small, with the code, idea, suggestion, feedback, typo, anything at all that you think would be of help, is most welcome and much appreciated.
 If you’re interested in the project, feel free to open an issue, create a PR, or just come say hi and tell us more about yourself.
+1. Fork it (<https://github.com/girlscript/girlscript_gsoc/>)
+2. Clone it ( `git clone https://github.com/USERNAME/girlscript_gsoc.git` )
+3. Create your feature branch ( `git checkout -b feature/fooBar` )
+4. Commit your changes ( `git commit -am 'Add some fooBar'` )
+5. Push to the branch ( `git push origin feature/fooBar` )
+6. Create a new Pull Request
 
 ## Participation Guidelines
 We are following Google Summer of Code Participation Guidelines, please have a look at it [here.](https://summerofcode.withgoogle.com/rules/) 
