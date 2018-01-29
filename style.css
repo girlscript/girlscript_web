@@ -1,0 +1,242 @@
+/*
+|--------------------------------------------------------------------------
+| Structure for the website 
+|--------------------------------------------------------------------------
+*/
+
+html, body{
+    padding: 0;
+    background-size: cover;
+    /*Add background image or gif here*/
+/*    background: url() center center;*/
+    display: inline-block;
+}
+
+section {
+    text-align: center;
+}
+
+/* Define the headers so they have the small underline */
+h1::after, h2::after, h3::after, h4::after{
+    content: '';
+    width: 60px;
+    height: 1px;
+    display: block;
+    margin: 0 auto;
+    transition: background .3s ease-out;
+    -webkit-transition: background .3s ease-out;
+    -moz-transition: background .3s ease-out;
+    -o-transition: background .3s ease-out;
+    background-color: #cccccc;
+}
+
+h1, h2, h3 {
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    color: white !important;
+}
+
+h2 {
+    font-size: 28px;
+    color: white;
+}
+
+h3 {
+    font-size: 24px;
+    color: #AAAAAA;
+    text-transform: none;
+}
+
+p {
+    font-size: 18px;
+    text-align: justify;
+}
+
+.red {
+    color: #ca0000;
+}
+
+#fullpage {
+    float: right;
+    padding: 0;
+}
+
+/* This class ensures the element is the height of its parent */
+.full-h{
+    height: 100%;
+}
+
+/*
+|--------------------------------------------------------------------------
+| Section formatting
+|--------------------------------------------------------------------------
+*/
+
+.section {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: calc(83vw);
+    margin: auto;
+    overflow-x: hidden;
+}
+
+.section-content {
+    margin: 5% 5% 5% 5%;
+    width: 100%;
+    border-top: 3px solid white;
+    border-bottom: 3px solid white;
+    background: black;
+}
+
+/* Use this class when the section is to have no pale background */
+.section-transparent {
+    border: none;
+    background-image: none;
+}
+
+.section-header {
+    height: 70px;
+    width: 100%;
+}
+
+.section-main {
+    height: calc(100% - 110px);
+    width: 100%;
+    margin-bottom: 10px;
+    overflow-y: auto;
+    color: white;
+    padding-right: 10px;
+    overflow-x: hidden;
+    border: 1px solid white;
+}
+
+/* Thin scroll-bar to match the rest of the theme */
+.section-main::-webkit-scrollbar {
+    width: 8px;
+    cursor: pointer;
+}
+
+/* Track */
+.section-main::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 9px rgba(0, 0, 0, 0.3);
+    background: white;
+    cursor: pointer;
+}
+
+/* Handle */
+.section-main::-webkit-scrollbar-thumb {
+    background: darkred;
+    cursor: pointer;
+    -webkit-box-shadow: inset 0 0 9px rgba(0, 0, 0, 0.5);
+}
+
+.section-main::-webkit-scrollbar-thumb:window-inactive {
+    background: darkred;
+    cursor: pointer;
+}
+
+
+/*
+|--------------------------------------------------------------------------
+| Navigation bar
+|--------------------------------------------------------------------------
+*/
+
+/* Separate styling for h1, h2 etc. for navbar. Still want to
+   use these however, for screen readers and accessibility */
+nav h1 {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-top: 0;
+}
+
+nav h2 {
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    text-transform: none;
+}
+
+.collapse {
+    padding: 0;
+}
+
+/* Stands for Aeviantos Navbar */
+.av-navbar {
+    height: 100vh;
+    background-color: #050505;
+    display: flex;
+    align-items: center;
+    padding: 0;
+}
+
+/* Remove bootstrap's annoying white border */
+.navbar-default {
+    border-color: transparent;
+}
+
+.navbar-container {
+    min-height: 440px;
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #101010;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+}
+
+.navbar-container > div {
+    width: 100%;
+    min-height: 40px;
+}
+
+#navbar-menu {
+    list-style: none;
+    color: white;
+    margin-top: 10px;
+    padding: 0;
+}
+
+#navbar-menu a {
+    text-decoration: none;
+    color: white;
+}
+
+#navbar-menu li {
+    padding: 5px 10px 5px 5px;
+    text-align: right;
+}
+
+#navbar-menu li:hover {
+    border-right: 5px solid #520000;
+    padding-right: 5px;
+}
+
+#navbar-menu .active {
+    border-right: 5px solid darkred;
+    padding-right: 5px;
+}
+
+.section-landing .section-content{
+    display: flex;
+    align-content: center;
+}
+
+/*
+|--------------------------------------------------------------------------
+| Misc
+|--------------------------------------------------------------------------
+*/
+
+.owl-theme .owl-controls .owl-page span {
+    background: white;
+}
+
+#fp-nav ul li a span, .fp-slidesNav ul li a span {
+    background: white;
+}
