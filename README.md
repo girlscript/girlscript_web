@@ -1,9 +1,11 @@
 
-# GirlScript
+# GirlScript Foundation
 
 **Promoting diversity and inclusion in tech by supporting women and bringing opportunities to one platform**
  
   [![Join the chat at https://gitter.im/Girl-script/Lobby](https://badges.gitter.im/Girl-script/Lobby.svg)](https://gitter.im/Girl-script/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+  [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
 
 ## Welcome! 
 Our day just got better. Thank you for visiting GirlScript repository, it’s our pleasure to have you here. :)
