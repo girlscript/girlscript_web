@@ -240,3 +240,7 @@ nav h2 {
 #fp-nav ul li a span, .fp-slidesNav ul li a span {
     background: white;
 }
+
+.box-shadow {
+    box-shadow: 0 0 50px #888888;
+}
