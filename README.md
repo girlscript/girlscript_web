@@ -30,7 +30,7 @@ The project is designed to help and guide people who want to improve their techn
 - Lack of diversity in field of tech
 - Lack of skills in people specially women
 - Lack of awareness about different opportunities available
-- To reduce noise prensence on the internet and help those who really want to learn and get inspired by others
+- To reduce noise presence on the internet and help those who really want to learn and get inspired by others
 
 ## What we plan to do about it?
 - To conduct offline workshops by establishing GirlScript chapters in different cities of India
@@ -51,7 +51,7 @@ Our current website is based on WordPress [see here](http://girlscript.org) but 
 - Online profile for all the contributors highighting their work and progess, can be used in their resumes.
 - A 'Get Inspired' blog wesite for publishing the interviews and stories of renonwed personalities and women in  technology.
 - An Android App for video tutorias, materials and notification related to cpf of events, scolarships etc.
-- Small coding games for begineers.
+- Small coding games for beginners.
 
 ## Contribution
 We need help to see our vision turn into reality. Any help, big or small, with the code, idea, suggestion, feedback, typo, anything at all that you think would be of help, is most welcome and much appreciated.
