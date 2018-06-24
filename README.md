@@ -24,7 +24,7 @@ If you are a someone who love to help people, who is techie, full of ideas and r
 ## Introduction
 GirlScript is a project being developed under the Mozilla Open Leadership Program, is a registered Non-Profit Organisation in India to support beginners in technology and ensure equality in tech.
 
-The project is designed to help and guide people who want to improve their technical skills. As the name indicates, it helps women to learn and improve their technical skiltells them about different opportunities available for them in the world outside. Through this project, we want to develop an online platform for GirlScript, our offline trainings have already begun in 3 cities of India.
+The project is designed to help and guide people who want to improve their technical skills. As the name indicates, it helps women to learn and improve their technical skills and tells them about different opportunities available for them in the world outside. Through this project, we want to develop an online platform for GirlScript, our offline trainings have already begun in 3 cities of India.
 
 ## Why does this project exist?
 - Lack of diversity in field of tech
