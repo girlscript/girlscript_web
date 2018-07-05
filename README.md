@@ -70,7 +70,7 @@ We are following Google Summer of Code Participation Guidelines, please have a l
 This project is licensed under the MIT License - you can see [LICENSE](https://github.com/girlscript/girlscript-gsoc/blob/master/LICENSE) file for details.
 
 ## Contact Us
-If you have anything to share, anything at all, feel free to drop by the GirlScript [room](https://gitter.im/Girl-script/Lobby#) on Gitter and say hi. We would love to hear from you. You can also contact [Rohit](https://github.com/rowhitswami) by email You can [contact us](mailto:foo@bar) (rohit [at] girlscript [dot] tech) or [Anubha](https://github.com/anubhamane) by email (anubha [at] girlscript [dot] tech) or on [Twitter](https://twitter.com/girlscript1).
+If you have anything to share, anything at all, feel free to drop by the GirlScript [room](https://gitter.im/Girl-script/Lobby#) on Gitter and say hi. We would love to hear from you. You can also contact [Rohit](https://github.com/rowhitswami) by email [here](mailto:rohit@girlscript.tech) or [Anubha](https://github.com/anubhamane) by email [here](mailto:anubha@girlscript.tech) or on [Twitter](https://twitter.com/girlscript1).
 
 Thank you for your interest. Have a nice day! :D
 
