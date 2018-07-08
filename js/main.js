@@ -233,6 +233,7 @@
 	    animation: "fade",
 	    prevText: "",
 	    nextText: "",
+	    touch: true,
 	    slideshow: true
 	  });
 	}
