@@ -42,8 +42,7 @@ The project is designed to help and guide people who want to improve their techn
 - Established chapters in 5 cities of 4 different states.
 - Conducted more than 48 events (workshops) to teach programming.
 - Ensured 65% women participation in all our events.
-- Conducted first ever women oriented technical fest of India called 'GIRLSCRIPT INDIA SUMMIT 2017' [Visit Website]
-(http://girlscriptsummit.tech)
+- Conducted first ever women oriented technical fest of India called 'GIRLSCRIPT INDIA SUMMIT 2017' [Visit Website](http://girlscriptsummit.tech)
 
 ## How are we doing it?
 Our current website is based on WordPress [see here](http://girlscript.org) but as we are growing faster, we are in need of the following:
