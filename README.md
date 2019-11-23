@@ -10,7 +10,7 @@
 ## Welcome! 
 Our day just got better. Thank you for visiting GirlScript repository, it’s our pleasure to have you here. :)
 
-If you are a someone who love to help people, who is techie, full of ideas and resources to share your knowledge with others, then you are at right place! We are looking for people like you, who love to learn and teach as well. Read below for more :D
+If you are someone who loves to help people, who is techie, full of ideas and resources to share your knowledge with others, then you are at right place! We are looking for people like you, who love to learn and teach as well. Read below for more :D
 
 * [Introduction](#introduction)
 * [Why does this project exist?](#why-does-this-project-exist)
@@ -48,9 +48,9 @@ The project is designed to help and guide people who want to improve their techn
 ## How are we doing it?
 Our current website is based on WordPress [see here](http://girlscript.org) but as we are growing faster, we are in need of the following:
 - A new website for our foundation with new design, donation links, our upcoming event pages and description of our work.
-- Online profile for all the contributors highighting their work and progess, can be used in their resumes.
-- A 'Get Inspired' blog wesite for publishing the interviews and stories of renonwed personalities and women in  technology.
-- An Android App for video tutorias, materials and notification related to cpf of events, scolarships etc.
+- Online profile for all the contributors highlighting their work and progress, can be used in their resumes.
+- A 'Get Inspired' blog website for publishing the interviews and stories of renonwed personalities and women in  technology.
+- An Android App for video tutorials, materials and notification related to cpf of events, scholarships etc.
 - Small coding games for beginners.
 
 ## Contribution
