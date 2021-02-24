@@ -18,6 +18,7 @@ If you are a someone who love to help people, who is techie, full of ideas and r
 * [How are we doing it?](#how-are-we-doing-it)
 * [Contribution](#contribution)
 * [Participation Guidelines](#participation-guidelines)
+* [Our Events](#our-events)
 * [License](#license)
 * [Contact Us](#contact-us)
 
@@ -65,6 +66,8 @@ If you’re interested in the project, feel free to open an issue, create a PR, 
 
 ## Participation Guidelines
 We are following Google Summer of Code Participation Guidelines, please have a look at it [here.](https://summerofcode.withgoogle.com/rules/) 
+
+## Our Events
 
 ## License
 This project is licensed under the MIT License - you can see [LICENSE](https://github.com/girlscript/girlscript-gsoc/blob/master/LICENSE) file for details.
