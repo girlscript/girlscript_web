@@ -65,7 +65,7 @@ If you’re interested in the project, feel free to open an issue, create a PR, 
 
 ## Participation Guidelines
 We are following Google Summer of Code Participation Guidelines, please have a look at it [here.](https://summerofcode.withgoogle.com/rules/) 
-
+We are following GS Cup Guidelines, please have a look at it https://www.girlscript.tech/home
 ## License
 This project is licensed under the MIT License - you can see [LICENSE](https://github.com/girlscript/girlscript-gsoc/blob/master/LICENSE) file for details.
 
